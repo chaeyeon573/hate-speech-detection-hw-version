@@ -1,0 +1,3 @@
+model,test_f1_macro,test_acc,test_precision_macro,test_recall_macro
+monologg/koelectra-base-v3-discriminator,0.8889,0.8896,0.888933937465042,0.8888
+Baseline (keyword),0.4773,0.6067,0.7531514082664958,0.5573
